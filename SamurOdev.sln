@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamurOdev", "SamurOdev\SamurOdev.csproj", "{A44AC991-2253-4531-AB9F-11EB5D3F3B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44AC991-2253-4531-AB9F-11EB5D3F3B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44AC991-2253-4531-AB9F-11EB5D3F3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44AC991-2253-4531-AB9F-11EB5D3F3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44AC991-2253-4531-AB9F-11EB5D3F3B06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358BFF29-DB8C-48D0-99BF-0AFF907428E0}
+	EndGlobalSection
+EndGlobal
